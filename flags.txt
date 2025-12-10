@@ -1,0 +1,22 @@
+chall1
+
+flag: PoC{BrunoDeChezPoC,PoC_W0rk$Hop}
+
+
+
+
+chall2
+
+flag:
+
+chall3
+
+flag:
+
+chall4
+
+flag:
+
+chall5
+
+flag:
