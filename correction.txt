@@ -8,3 +8,9 @@ Utiliser windows.netscan pour retrouver quel programme a contacté le site puis 
 flag: PoC{7912BrunoDeChezPoC}
 
 Challenge3:
+
+good
+
+Chall 4:
+
+il fallait utiliser memmap pour retrouver un dump du processus 7912
