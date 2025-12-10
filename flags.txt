@@ -1,17 +1,18 @@
 chall1
 
+utilisation de windows.ebvars pour trouver les variables d'environnement des users
 flag: PoC{BrunoDeChezPoC,PoC_W0rk$Hop}
-
-
 
 
 chall2
 
 flag:
 
+
 chall3
 
-flag:
+prendre la ligne de commande du PID 7912 avec windows.cmdline puis calculer le SHA1 et echo -n + sha1sum pour le hash
+flag: PoC{edc88358ab58eda9f5484e546980f8fc5e76f124}
 
 chall4
 
